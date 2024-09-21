@@ -1,5 +1,5 @@
 var mit = {
-    city: 'Coimbatore',
+    city: 'madhurai',
     colors: ['pink', 'red'],
     mascot: "robot",
     founded: 2004,
